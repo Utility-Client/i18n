@@ -2676,3 +2676,23 @@ item.banner.straight_cross.lightBlue=Light Blue Cross
 item.banner.straight_cross.magenta=Magenta Cross
 item.banner.straight_cross.orange=Orange Cross
 item.banner.straight_cross.white=White Cross
+
+uc.options.theme.title=Select a theme
+uc.options.theme.next=Next
+uc.options.theme.previous=Previous
+uc.options.theme.prefix=Prefix
+uc.options.theme.suffix=Suffix
+
+uc.options.crosshair.title=Create a crosshair
+
+uc.options.macro.title=Create a macro
+uc.options.macro.save=Save
+uc.options.macro.cancel=Cancel
+uc.options.macro.name=Name
+uc.options.macro.message=Message or command
+uc.options.macro.default.name=New Macro
+uc.options.macro.default.message=Hello World
+
+uc.keybinding.fulbright=Fulbright
+uc.keybinding.zoom=Zoom
+uc.keybinding.overlay=Overlay
