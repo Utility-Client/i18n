@@ -2513,3 +2513,23 @@ translation.test.invalid=salut %
 translation.test.invalid2=salut %s
 translation.test.none=Salut, lume!
 translation.test.world=lume
+
+uc.options.theme.title=Selctează o temă
+uc.options.theme.next=Umrătoarea
+uc.options.theme.previous=Anterioarea
+uc.options.theme.prefix=Prefix
+uc.options.theme.suffix=Suffix
+
+uc.options.crosshair.title=Crează o ţintă
+
+uc.options.macro.title=Crează un macro
+uc.options.macro.save=Salvează
+uc.options.macro.cancel=Anulează
+uc.options.macro.name=Nume
+uc.options.macro.message=Mesaj sau comandă
+uc.options.macro.default.name=Macro nou
+uc.options.macro.default.message=Salut lume!
+
+uc.keybinding.fulbright=Fulbright
+uc.keybinding.zoom=Zoom
+uc.keybinding.overlay=Overlay
