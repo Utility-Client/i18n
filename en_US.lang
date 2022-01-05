@@ -2696,3 +2696,4 @@ uc.options.macro.default.message=Hello World
 uc.keybinding.fulbright=Fulbright
 uc.keybinding.zoom=Zoom
 uc.keybinding.overlay=Overlay
+uc.keybinding.copyCoords=Copy coords to clipboard
