@@ -2533,3 +2533,4 @@ uc.options.macro.default.message=Salut lume!
 uc.keybinding.fulbright=Fulbright
 uc.keybinding.zoom=Zoom
 uc.keybinding.overlay=Overlay
+uc.keybinding.copyCoords=Copiază coordinatele în clipboard
