@@ -2510,3 +2510,24 @@ tile.woolCarpet.yellow.name=Gelber Teppich
 tile.workbench.name=Werkbank
 title.oldgl1=Alte Grafikkarte erkannt; Dies könnte dich in der Zukunft
 title.oldgl2=am Spielen hindern, da OpenGL 2.0 benötigt wird.
+
+uc.options.theme.title=Wählen sie ein Thema
+uc.options.theme.next=Weiter
+uc.options.theme.previous=Zurück
+uc.options.theme.prefix=Prefix
+uc.options.theme.suffix=Suffix
+
+uc.options.crosshair.title=Erstelle ein Fadenkreuz
+
+uc.options.macro.title=Erstelle ein Makro
+uc.options.macro.save=Speichern
+uc.options.macro.cancel=Abbrechen
+uc.options.macro.name=Name
+uc.options.macro.message=Nachricht oder Befehl
+uc.options.macro.default.name=Neues Makro
+uc.options.macro.default.message=Hallo Welt
+
+uc.keybinding.fulbright=Fulbright
+uc.keybinding.zoom=Zoom
+uc.keybinding.overlay=Overlay
+uc.keybinding.copyCoords=Koordinaten in die Zwischenablage kopieren
